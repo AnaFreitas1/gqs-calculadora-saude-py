@@ -1,0 +1,1 @@
+# gqs-calculadora-saude-py
